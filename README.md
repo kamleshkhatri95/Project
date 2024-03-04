@@ -1,2 +1,4 @@
-# Project
-This is ML project
+Project Objective:
+Introduction
+Methodology
+Future Work:
